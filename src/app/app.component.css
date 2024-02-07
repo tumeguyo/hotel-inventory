@@ -1,0 +1,12 @@
+
+td{
+    border: ipx solid black;
+}
+.even{
+    background-color: steelblue;
+    color: white;
+}
+
+odd{
+    color: white;
+}
